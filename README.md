@@ -160,3 +160,70 @@ Comentários:
 Imagens:
 
 ![](img/guimaraes-2021-img-020.png) 
+
+
+
+### Visualizações sofisticadas / inovadoras
+
+
+#### [Nieto et al., 2022]: um artigo em conferência especializada em Learning Analytics
+
+??[](https://dl.acm.org/doi/abs/10.1145/3506860.3506895)
+Gloria Milena Fernandez Nieto, Kirsty Kitto, Simon Buckingham Shum, and Roberto Martinez-Maldonado. 2022. Beyond the Learning Analytics Dashboard: Alternative Ways to Communicate Student Data Insights Combining Visualisation, Narrative and Storytelling. In LAK22: 12th International Learning Analytics and Knowledge Conference (LAK22). Association for Computing Machinery, New York, NY, USA, 219–229. https://doi.org/10.1145/3506860.3506895
+
+URL alternativa: https://gloriafer18.github.io/LAK22_FernandezNieto%202-col.pdf
+
+>  *In this paper, we explore three design alternatives to represent student multimodal data insights by combining data visualisation, narratives and storytelling principles. Based on foundations in data storytelling, three visual-narrative interfaces were designed with teachers: i) visual data slices, ii) a tabular visualisation, and iii) a written report.* 
+
+
+Comentários:
+
+- Boa introdução ao tema
+- Validação com uma turma na área de saúde
+- Os dados coletados/exibidos incluem até medidas fisiológicas 
+- A visualização em data-slices é mais sofisticada (timeline), já as outras 2 são graficamente simples (tabulares)
+
+
+Imagens:
+
+![](img/nieto-2022-img-000.png) ![](img/nieto-2022-img-002.png)
+![](img/nieto-2022-img-004.png) ![](img/nieto-2022-img-006.png)
+
+
+#### [Kuo; Krahn; Chang, 2021]: artigo de um grupo com experiência em plugins Moodle
+
+??[](https://link.springer.com/chapter/10.1007/978-3-030-80421-3_25)
+Kuo, R., Krahn, T., Chang, M. (2021). Behaviour Analytics - A Moodle Plug-in to Visualize Students’ Learning Patterns. In: Cristea, A.I., Troussas, C. (eds) Intelligent Tutoring Systems. ITS 2021. Lecture Notes in Computer Science(), vol 12677. Springer, Cham. https://doi.org/10.1007/978-3-030-80421-3_25
+
+URL alternativa: https://maiga.athabascau.ca/publication/Conference-2021-ITS2021-BA.pdf
+
+>  *This research designs a Moodle plug-in that not only can visualize students’ learning behaviour patterns from the log but also can cluster students into different groups based on their patterns. Teachers can easily see how students went through one learning object to another; review the common learning pattern that students in the same group have; and, annotate the learning pattern a group or an individual student has based on his or her observations on the pattern’s details. * 
+
+
+Comentários:
+
+- Visualização em grafo, como em outros trabalhos (já não dá mais pra chamar este tipo de visualização de "inovadora")
+- Um diferencial aqui está na possibilidade de anotação pelo professor (público-alvo docente, não estudante)
+- Vale olhar a página de um dos autores, que é professor numa universidade canadense: https://maiga.athabascau.ca/
+
+
+Imagens:
+
+![](img/chang-2021-img-003.png) ![](img/chang-2021-img-004.png)
+![](img/chang-2021-img-008.png) ![](img/chang-2021-img-009.png)
+
+
+### Outros a revisar
+
+Referências relacionadas mas ainda não examinadas
+
+- InDash: An Interactions Dashboard to Analyze Moodle Logs (2022)
+
+  - Publicação em evento espanhol, verificar referência completa
+  - https://ceur-ws.org/Vol-3238/paper3.pdf
+ 
+
+- B. Bach et al., "Dashboard Design Patterns," in IEEE Transactions on Visualization and Computer Graphics, vol. 29, no. 1, pp. 342-352, Jan. 2023, doi: 10.1109/TVCG.2022.3209448.
+
+  - Download alternativo: https://arxiv.org/pdf/2205.00757.pdf
+  - Site com material do artigo, em forma de curso: https://dashboarddesignpatterns.github.io/ 
